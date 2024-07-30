@@ -1,7 +1,7 @@
 import UserModel from '../models/User.js'
 import bcrypt from 'bcrypt'
 import jwt from 'jsonwebtoken'
-//import transporter from '../config/emailConfig.js'
+
 
 
 class UserController {
